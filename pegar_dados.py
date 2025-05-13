@@ -4,8 +4,8 @@ from datetime import datetime
 
 def atualizar_dados():
     email = 'cogedi.docsp@gmail.com'
-    senha = 'knwa wbvx lryz ybmc'
-    email_origem = 'diariooficial@prefeitura.sp.gov.br'
+    senha = 'fxuw jivb ozje imco'
+    email_origem = 'jveloso4669@gmail.com'
 
     conteudo_email = None
 
