@@ -5,7 +5,7 @@ from datetime import datetime
 def atualizar_dados():
     email = 'cogedi.docsp@gmail.com'
     senha = 'fxuw jivb ozje imco'
-    email_origem = 'jveloso4669@gmail.com'
+    email_origem = 'velosoti01@gmail.com'
 
     conteudo_email = None
 
